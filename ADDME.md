@@ -1,0 +1,5 @@
+# THIS REPOSITORY IS FOR LEARNING AND UNDERSTANDING OF SQL QUERIES.
+
+*FIRST TOPIC IN SQL IS TO CREATE A TABLE.*
+
+[CLONE THIS REPOSITORY ](https://github.com/vivekchadhuvula01/sql_for_data_analytics.git)
