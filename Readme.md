@@ -1,5 +1,8 @@
 # THIS REPOSITORY IS FOR LEARNING AND UNDERSTANDING OF SQL QUERIES.
 
-*FIRST TOPIC IN SQL IS TO CREATE A TABLE.*
+[CLONE THIS REPOSITORY TO YOUR DIRECTORY ](https://github.com/vivekchadhuvula01/sql_for_data_analytics.git)
 
-[CLONE THIS REPOSITORY ](https://github.com/vivekchadhuvula01/sql_for_data_analytics.git)
+## Uploading or loading the data into database  refer bulk_upload.sql
+* make sure for the pathname of the file you're loading.
+
+

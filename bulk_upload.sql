@@ -18,7 +18,7 @@ create table if not exists dress(
 `Recommendation` varchar(30));
 
 load data infile
-'C:/AttributeDataSet.csv'
+'C:/AttributeDataSet.csv' --MAKE SURE THE PATHNAME OF YOUR FILE MINE IS 'C:/AttributeDataSet.csv' CHECK FOR YOURS.
 into table dress
 FIELDS TERMINATED by ','
 ENCLOSED by '"'
