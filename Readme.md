@@ -5,4 +5,4 @@
 ## Uploading or loading the data into database  refer bulk_upload.sql
 * make sure for the pathname of the file you're loading.
 
-
+## Types of Joins
