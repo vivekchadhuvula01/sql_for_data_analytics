@@ -6,3 +6,7 @@
 * make sure for the pathname of the file you're loading.
 
 ## Types of Joins
+
+
+## Date Functions
+* Use snowflake to practice your SQL queries.
